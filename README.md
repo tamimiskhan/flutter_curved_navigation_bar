@@ -4,7 +4,6 @@ A new Flutter project.
 
 |![](images/Screenshot_1635225090.png)|![](images/Screenshot_1635225097.png)|![](images/Screenshot_1635225095.png)|
 |:---:|:---:|:---:|
-
 |**A**|**C**|**E**|
 
 ## Getting Started
